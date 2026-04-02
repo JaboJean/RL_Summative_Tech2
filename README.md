@@ -1,12 +1,5 @@
 # Kigali Job Market RL — Reinforcement Learning Summative
 
-**Author:** Jean Jacques JABO  
-**Program:** BSE Pre-Capstone  
-**Supervisor:** GATERA Thadde  
-**Institution:** African Leadership University (ALU)  
-**Year:** 2026  
-
----
 
 ## Project Overview
 
