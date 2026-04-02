@@ -1,0 +1,15 @@
+{
+  "algorithm": "DQN",
+  "run": 2,
+  "mean_reward": 36.26,
+  "model_path": "models/dqn/dqn_run2",
+  "params": {
+    "learning_rate": 0.0005,
+    "gamma": 0.99,
+    "batch_size": 64,
+    "buffer_size": 10000,
+    "exploration_fraction": 0.2,
+    "target_update_interval": 500,
+    "learning_starts": 300
+  }
+}
